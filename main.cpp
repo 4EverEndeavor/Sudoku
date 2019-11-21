@@ -2,8 +2,6 @@
 #include <iomanip>
 using namespace std;
 
-// Here is a test comment
-// I have made this change locally
 struct Space
 {
     public:
